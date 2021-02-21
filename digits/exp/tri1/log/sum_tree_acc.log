@@ -1,0 +1,2 @@
+sum-tree-stats exp/tri1/treeacc exp/tri1/1.treeacc 
+LOG (sum-tree-stats[5.5.0~1531-d619]:main():sum-tree-stats.cc:88) Wrote summed accs ( 176 individual stats)
